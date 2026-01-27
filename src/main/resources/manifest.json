@@ -1,0 +1,21 @@
+{
+  "Group": "Conczin",
+  "Name": "Resource Groups",
+  "Version": "0.0.1",
+  "Description": "Allows resource groups to add items to existing resource types.",
+  "Authors": [
+    {
+      "Name": "Conczin",
+      "Email": "conczin@gmail.com",
+      "Url": "https://conczin.net/"
+    }
+  ],
+  "Website": "https://conczin.net/",
+  "Main": "net.conczin.resourcegroups.ResourceGroupsPlugin",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": []
+}
